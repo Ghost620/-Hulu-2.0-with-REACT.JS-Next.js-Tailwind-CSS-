@@ -15,7 +15,7 @@ const Header = () => {
             <HeaderItem title='ACCOUNT' Icon={UserIcon}/>
         </div>
 
-        <img className="object-contain pt-5 sm:pt-0" src='https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Hulu_Logo.svg/220px-Hulu_Logo.svg.png' width={200} height={200} />
+        <img className="object-contain pt-5 sm:pt-0" src='https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Hulu_Logo.svg/220px-Hulu_Logo.svg.png' alt='' width={200} height={200} />
 
 
     </header>
